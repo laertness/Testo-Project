@@ -1,1 +1,2 @@
 this is a line for file2
+this is a new line for this file and this need to work, this is a good exemple for a coomit
